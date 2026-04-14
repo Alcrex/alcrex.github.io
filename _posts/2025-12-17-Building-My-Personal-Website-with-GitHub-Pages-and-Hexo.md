@@ -2,6 +2,7 @@
 layout: post
 title: Building My Personal Website with GitHub Pages and Hexo
 date: 2025-12-17 03:13:10 +0800
+categories: [Hexo, Blog]
 tags: Hexo
 ---
 # Background
